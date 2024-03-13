@@ -22,15 +22,6 @@ h1 {
   animation: animateTitle 2s ease infinite alternate; /* Agregar animación */
 }
 
-@keyframes animateTitle {
-  0% {
-      transform: scale(1);
-  }
-  100% {
-      transform: scale(1.1);
-  }
-}
-
 .slot-machine {
   display: flex;
   justify-content: center;
